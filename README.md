@@ -1,6 +1,8 @@
 # Game-Controller
 This is a Arduino And Joystick Module based game controller instead of game controller it is more of a mouse controller using joystick
 
+https://github.com/diwan-kadir/Game-Controller/blob/master/Game%20Controller%20using%20Arduino%20and%20Joystick%20Module%20(1).mp4
+
 The Arduino ino code gives 3 values X , Y , Z whenever there is action performed through joystick
 ![circuit diagram](https://github.com/diwan-kadir/Game-Controller/blob/master/Game_controller.PNG)
 
